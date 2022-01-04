@@ -32,6 +32,14 @@ p {
   padding-left: 170pt;
 }
 
+b {
+  color: white;
+  text-align: left;
+  font-size: 14pt;
+  font-family: Verdana, Helvetica, sans-serif;
+  padding-left: 170pt; 
+}
+
 ul {
   position: fixed;
   left: 0px;
