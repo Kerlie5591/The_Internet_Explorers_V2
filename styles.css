@@ -65,20 +65,11 @@ a:visited {
   text-decoration: none;
 }
 
-.column {
-  float: center;
-  width: 20%;
-  padding: 20px;
-  padding-right: 170pt;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table; 
-}
-
 img {
   position: relative;
   display: block;
+}
+
+div {
+  
 }
