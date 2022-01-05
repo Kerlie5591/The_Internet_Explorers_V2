@@ -84,8 +84,6 @@ img {
 
 div {
   width: 100%;
-  position: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0px auto;
   padding-right: 170pt;
 }
