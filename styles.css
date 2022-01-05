@@ -47,13 +47,13 @@ li {
 }
 
 a:link {
-  color: orange;
+  color: green;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: lightgreen;
+  color: purple;
   background-color: transparent;
   text-decoration: none;
 }
