@@ -83,7 +83,6 @@ img {
 }
 
 div {
-  width: 100%;
-  padding-right: 170pt;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
