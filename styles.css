@@ -22,21 +22,19 @@ h3 {
 
 p {
   color: white;
-  text-align: left;
+  text-align: center;
   font-size: 14pt;
   font-family: Verdana, Helvetica, sans-serif;
   margin: 25px 100px;
-  padding-left: 100pt;
   padding-right: 200pt;
 }
 
 b {
   color: white;
-  text-align: left;
+  text-align: center;
   font-size: 14pt;
   font-family: Verdana, Helvetica, sans-serif;
   margin: 25px 100px;
-  padding-left: 100pt;
   padding-right: 200pt;
 }
 
