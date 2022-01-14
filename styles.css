@@ -55,7 +55,26 @@ a:visited {
   text-decoration: none;
 }
 
+.column {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table; 
+}
+
 img {
   position: relative;
   display: block;
+}
+
+div {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
